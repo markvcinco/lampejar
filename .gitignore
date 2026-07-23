@@ -8,3 +8,7 @@ Thumbs.db
 # Dependencies / build (não usados hoje, mas evita sujeira futura)
 node_modules/
 .vercel/
+
+# Arquivos temporários de debug/testes
+scratch_*
+scratch_extract/
