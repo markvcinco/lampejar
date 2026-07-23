@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#4A19AB"/>
+  <!-- rays -->
+  <g stroke="#FFC924" stroke-width="3.4" stroke-linecap="round">
+    <line x1="32" y1="7"  x2="32" y2="13"/>
+    <line x1="13.5" y1="14.5" x2="17.8" y2="18.8"/>
+    <line x1="50.5" y1="14.5" x2="46.2" y2="18.8"/>
+    <line x1="7"  y1="31" x2="13" y2="31"/>
+    <line x1="57" y1="31" x2="51" y2="31"/>
+  </g>
+  <!-- bulb glass -->
+  <circle cx="32" cy="30" r="13" fill="#FFC924"/>
+  <!-- filament -->
+  <path d="M26.5 32 L29.5 25.5 L32 30.5 L34.5 25.5 L37.5 32"
+        fill="none" stroke="#4A19AB" stroke-width="2.6"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- screw base -->
+  <rect x="26" y="42" width="12" height="10" rx="3" fill="#FFC924"/>
+  <line x1="27.5" y1="46" x2="36.5" y2="46" stroke="#4A19AB" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="28.5" y1="49.5" x2="35.5" y2="49.5" stroke="#4A19AB" stroke-width="2.2" stroke-linecap="round"/>
+</svg>

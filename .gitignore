@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Dependencies / build (não usados hoje, mas evita sujeira futura)
+node_modules/
+.vercel/
